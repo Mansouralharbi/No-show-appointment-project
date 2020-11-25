@@ -1,4 +1,4 @@
-# My_Projects
+# No show -appointment Project
 intoduction 
 This project is studying  dataset called No show -appointment, which is storing multi patient data like patient Id
 ,gender , appointment , hospital locations ,age. This dataset has been explored by python code. For example, the 
